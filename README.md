@@ -26,8 +26,10 @@ This project is a web application that processes loan applications using a machi
 The application uses a microservices-based architecture:
 
 1. **Frontend**: Developed using React and TypeScript for building user interfaces. Tailwind CSS and Shadcn are used for styling.
-2. **Backend**: Built using Node.js, Express, and TypeScript. Prisma is used as an ORM for PostgreSQL.
-3. **ML Algorithm**: The loan approval logic is implemented in Python using FastAPI for the ML service, which evaluates applications based on input data.
+
+3. **Backend**: Built using Node.js, Express, and TypeScript. Prisma is used as an ORM for PostgreSQL.
+
+4. **ML Algorithm**: The loan approval logic is implemented in Python using FastAPI for the ML service, which evaluates applications based on input data.
 
 ## Features
 
@@ -82,5 +84,11 @@ Ensure you have the following installed:
 
     ```bash 
     npx prisma migrate dev
+
+
+    ## Some layouts are given below
+  image](https://github.com/user-attachments/assets/6da79044-e99c-4e01-a5ea-ed537375e5ec)
+   ![image](https://github.com/user-attachments/assets/ffb9d672-b34a-4ad5-93df-fe953845c57a)
+
     
 
