@@ -1,13 +1,6 @@
 // Sidebar.tsx
 import React from "react";
-import {
-  DollarSign,
-  Home,
-  FileText,
-  Users,
-  PieChart,
-  Menu,
-} from "lucide-react";
+import { DollarSign, Home, FileText, Users, Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { useNavigate } from "react-router-dom";
@@ -75,10 +68,6 @@ const Sidebar: React.FC<SidebarProps> = ({ sidebarOpen, setSidebarOpen }) => {
         >
           <Users className="mr-3 h-5 w-5" />
           Customers
-        </Button>
-        <Button variant="ghost" className="w-full justify-start text-white">
-          <PieChart className="mr-3 h-5 w-5" />
-          Reports
         </Button>
       </nav>
     </div>
