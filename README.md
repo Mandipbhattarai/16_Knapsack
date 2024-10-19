@@ -33,7 +33,6 @@ The application uses a microservices-based architecture:
 
 - User registration and login (authentication system)
 - Form for loan application submission
-- Real-time feedback on loan approval status
 - Integration with the ML model for loan application processing
 - Persistent data storage using PostgreSQL
 - RESTful APIs for frontend-backend communication
