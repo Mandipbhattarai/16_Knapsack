@@ -86,9 +86,12 @@ Ensure you have the following installed:
     npx prisma migrate dev
 
 
-    ## Some layouts are given below
-  image](https://github.com/user-attachments/assets/6da79044-e99c-4e01-a5ea-ed537375e5ec)
-   ![image](https://github.com/user-attachments/assets/ffb9d672-b34a-4ad5-93df-fe953845c57a)
+   ## Some layouts are given below
+![image](https://github.com/user-attachments/assets/39a59778-604f-45b5-a3c2-30d7fd228147)
+![image](https://github.com/user-attachments/assets/f91868a9-778a-4f53-ab36-d919bea81329)
+![image](https://github.com/user-attachments/assets/38d3a3bd-c832-4452-b2c7-e84abec38dea)
+![image](https://github.com/user-attachments/assets/420642b8-7e62-4ef6-9ac6-9e5826a51cc0)
+
 
     
 
