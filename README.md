@@ -54,3 +54,34 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/loan-approval-system.git
    cd loan-approval-system
+
+
+
+
+### Frontend Setup
+
+    ```bash 
+    cd frontend
+    npm install
+    npm run dev
+    
+
+### Backend Setup
+
+    ```bash
+    cd backend
+    npm install
+    npm run dev
+    
+    
+
+### Database Setup
+
+*   Make sure PostgreSQL is running and create a database.
+*   Update the `.env` file with your database credentials.
+*   Run migrations:
+
+    ```bash 
+    npx prisma migrate dev
+    
+
